@@ -1,6 +1,6 @@
 # Stereo-seq CITE-seq Analysis
 
-Analysis code for single-cell CITE-seq data processing and visualization.
+Analysis code for Stereo-cell-CITE data processing and visualization.
 
 ## Overview
 
@@ -15,11 +15,11 @@ The figure below illustrates the overall analysis workflow:
 
 ![Analysis Workflow](data/workflow.png)
 
-*Figure 1: Schematic overview of the Stereo-seq CITE-seq data analysis pipeline. The workflow encompasses data preprocessing, quality control, normalization, cell clustering, annotation, and downstream visualization.*
-
+*Figure 1: Schematic overview of the Stereo-seq-CITE data analysis pipeline. The workflow encompasses data preprocessing, quality control, normalization, cell clustering, annotation, and downstream visualization.*
 
 ## Environment Setup
 
+```bash
 # Install dependencies
 pip install scanpy anndata numpy pandas matplotlib seaborn scikit-learn umap-learn
 ```
