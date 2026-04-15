@@ -30,11 +30,6 @@ Raw sequencing data are available at [GNCB accession number].
 
 Processed data files (`.h5ad`) should be placed in the `data/` directory before running the notebooks.
 
-## Usage
-
-1. Start with `s01_annotation.ipynb` for cell type identification
-2. Run `s02_figures.ipynb` to generate final publication figures
-
 ## Citation
 
 If you use this code, please cite:
