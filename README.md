@@ -6,8 +6,8 @@ Analysis code for Stereo-cell-CITE data processing and visualization.
 
 This repository contains Jupyter notebooks for:
 
-- **Cell clustering and annotation** (https://github.com/zhuqianhua/paper-2026-stereo-cell-cite/notebooks/s01_annotation.ipynb)
-- **Figure generation and statistical analysis** (https://github.com/zhuqianhua/paper-2026-stereo-cell-cite/notebooks/s02_figures.ipynb)
+- **Cell clustering and annotation** ([notebooks/s01_annotation.ipynb](notebooks/s01_annotation.ipynb))
+- **Figure generation and statistical analysis** ([notebooks/s02_figures.ipynb](notebooks/s02_figures.ipynb))
 
 ## Workflow
 
