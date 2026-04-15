@@ -1,4 +1,4 @@
-# Stereo-seq CITE-seq Analysis
+# Stereo-seq-CITE Analysis
 
 Analysis code for Stereo-cell-CITE data processing and visualization.
 
