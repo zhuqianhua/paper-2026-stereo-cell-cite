@@ -28,7 +28,7 @@ pip install scanpy anndata numpy pandas matplotlib seaborn scikit-learn umap-lea
 
 Raw sequencing data are available at [GNCB accession number].
 
-Processed data files (`.h5ad`) should be placed in the `data/` directory before running the notebooks.
+Processed data files (`.h5ad`) should be placed in the `data/` directory before running the notebooks. Note that only sample example data are included in this directory.
 
 ## Citation
 
